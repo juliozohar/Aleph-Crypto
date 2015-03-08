@@ -1,3 +1,16 @@
+/*===============================================================
+ * Caesar Cypher
+ * Module  : caesar.c
+ * Type    : C Source Code
+ * Author  : Julio Cesar Torres
+ * Date    : Mars 05 2015
+ * Remarks : Implements caesar cypher algorithm.
+ *           For demonstration purposes only, not for use in real
+ *           world scenarios.
+ *================================================================
+ * (C) 2015 Licensed under CERN OHL v.1.2
+ *================================================================*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <string>
